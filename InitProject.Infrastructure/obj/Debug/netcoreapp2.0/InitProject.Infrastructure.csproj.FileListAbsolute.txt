@@ -1,0 +1,8 @@
+C:\Users\juliusd\source\repos\InitProject\InitProject.Infrastructure\bin\Debug\netcoreapp2.0\InitProject.Infrastructure.deps.json
+C:\Users\juliusd\source\repos\InitProject\InitProject.Infrastructure\bin\Debug\netcoreapp2.0\InitProject.Infrastructure.dll
+C:\Users\juliusd\source\repos\InitProject\InitProject.Infrastructure\bin\Debug\netcoreapp2.0\InitProject.Infrastructure.pdb
+C:\Users\juliusd\source\repos\InitProject\InitProject.Infrastructure\obj\Debug\netcoreapp2.0\InitProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\juliusd\source\repos\InitProject\InitProject.Infrastructure\obj\Debug\netcoreapp2.0\InitProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\juliusd\source\repos\InitProject\InitProject.Infrastructure\obj\Debug\netcoreapp2.0\InitProject.Infrastructure.AssemblyInfo.cs
+C:\Users\juliusd\source\repos\InitProject\InitProject.Infrastructure\obj\Debug\netcoreapp2.0\InitProject.Infrastructure.dll
+C:\Users\juliusd\source\repos\InitProject\InitProject.Infrastructure\obj\Debug\netcoreapp2.0\InitProject.Infrastructure.pdb
